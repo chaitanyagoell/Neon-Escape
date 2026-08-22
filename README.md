@@ -34,7 +34,6 @@ The goal is simple: survive as long as possible, collect Energy Orbs to increase
 | Key | Action |
 |-----|--------|
 | W / A / S / D | Move |
-| Arrow Keys | Move |
 | Space | Dash |
 
 ## 🛠️ Built With
