@@ -7,17 +7,16 @@ The goal is simple: survive as long as possible, collect Energy Orbs to increase
 ## 📸 Screenshots
 
 ### Start Screen
-![Neon Escape Start Screen](<img width="1152" height="640" alt="start-screen" src="https://github.com/user-attachments/assets/468aaf0c-d28d-4207-8539-9a1434010b14" />
-)
+
+![Neon Escape Start Screen](./start-screen.png)
 
 ### Gameplay
-![Neon Escape Gameplay](<img width="1159" height="649" alt="gameplay" src="https://github.com/user-attachments/assets/6592b431-7209-45be-b031-4b59e951a3eb" />
-)
+
+![Neon Escape Gameplay](./gameplay.png)
 
 ### Game Over
-![Neon Escape Game Over](<img width="1146" height="647" alt="image" src="https://github.com/user-attachments/assets/be8ae7b0-32c2-4567-893f-21c51f6e5ddb" />
-)
 
+![Neon Escape Game Over](./game-over.png)
 
 ## 🎮 Gameplay
 
