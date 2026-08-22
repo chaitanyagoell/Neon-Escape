@@ -109,7 +109,7 @@ Planned improvements for future versions include:
 **Chaitanya Goel**
 
 B.Tech CSE — 1st Year  
-Graphic Era University
+Graphic Era Deemed To Be University
 
 Neon Escape was designed and developed as a personal game development project to explore 2D game development, gameplay systems, scripting, collision detection, UI design, and game-state management.
 
