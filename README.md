@@ -4,6 +4,11 @@ A fast-paced 2D survival game developed in Godot using GDScript.
 
 The goal is simple: survive as long as possible, collect Energy Orbs to increase your score, and use your dash ability to escape dangerous situations.
 
+## 🎮 Play the Game
+
+**Play Neon Escape in your browser:**  
+👉 https://chaitanyagoel.itch.io/neon-escape
+
 ## 📸 Screenshots
 
 ### Start Screen
